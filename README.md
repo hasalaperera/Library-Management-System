@@ -21,7 +21,7 @@ A Windows Forms-based Library Management System created using **C#** and **SQL S
 ## 🖼️ Screenshots
 
 ### ✅ Loading Page
-![Loading Page](./assets/Screenshot-14.png)
+![Loading Page](./assets/Screenshot(14).png)
 
 ### ✅ Login Page
 ![Login Page](./assets/Screenshot-15.png)
