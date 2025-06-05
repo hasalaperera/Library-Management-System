@@ -1,0 +1,19 @@
+D:\Library Management System\Library System\Library System\bin\Debug\Library System.exe.config
+D:\Library Management System\Library System\Library System\bin\Debug\Library System.exe
+D:\Library Management System\Library System\Library System\bin\Debug\Library System.pdb
+D:\Library Management System\Library System\Library System\obj\Debug\Library System.csproj.AssemblyReference.cache
+D:\Library Management System\Library System\Library System\obj\Debug\Library System.csproj.SuggestedBindingRedirects.cache
+D:\Library Management System\Library System\Library System\obj\Debug\Library_System.Loading.resources
+D:\Library Management System\Library System\Library System\obj\Debug\Library_System.login.resources
+D:\Library Management System\Library System\Library System\obj\Debug\Library_System.Properties.Resources.resources
+D:\Library Management System\Library System\Library System\obj\Debug\Library System.csproj.GenerateResource.cache
+D:\Library Management System\Library System\Library System\obj\Debug\Library System.csproj.CoreCompileInputs.cache
+D:\Library Management System\Library System\Library System\obj\Debug\Library System.exe
+D:\Library Management System\Library System\Library System\obj\Debug\Library System.pdb
+D:\Library Management System\Library System\Library System\obj\Debug\Library_System.Dashboard.resources
+D:\Library Management System\Library System\Library System\obj\Debug\Library_System.Student.resources
+D:\Library Management System\Library System\Library System\obj\Debug\Library_System.Book.resources
+D:\Library Management System\Library System\Library System\obj\Debug\Library_System.Librarians.resources
+D:\Library Management System\Library System\Library System\obj\Debug\Library_System.IssueBook.resources
+D:\Library Management System\Library System\Library System\obj\Debug\Library_System.Return.resources
+D:\Library Management System\Library System\Library System\obj\Debug\Library_System.Aboutus.resources
